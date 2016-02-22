@@ -1,0 +1,10 @@
+# Site settings
+title: Jekyll Youtube Embed Plugin
+tag_text: JYE
+description: Jekyll Youtube Embed is an easy to use Jekyll plugin to embed youtube videos.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
